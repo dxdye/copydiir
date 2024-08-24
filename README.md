@@ -11,4 +11,4 @@ i.e. in fish:
 ### install:
 
 install python deps:
-```pip install requirements.txt -r```
+```pip install -r requirements.txt```
