@@ -6,3 +6,6 @@ print(dir_path)
 
 pyperclip.copy(dir_path)
 
+
+
+
